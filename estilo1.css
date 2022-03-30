@@ -1,0 +1,21 @@
+.estilo1{color:black;
+        font-size:80px;
+        font-family:arial;
+        font-style:oblique;}
+
+.estilo2{color:black;
+         text-aling:justify;
+         font-size:30;
+         font-fanily:arial;}
+
+
+
+.footer{aling-self:flex-end;
+background:#B5B9FF;
+line-heigth:3;
+text-aling:center;
+width:100%px;}
+
+body{background:#AFF8D8;}
+
+

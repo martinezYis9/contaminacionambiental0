@@ -1,0 +1,40 @@
+
+.divcontenedor
+{
+border:1px solid black;
+width:100%;
+height:100%;
+background:#B5B9FF;
+text-aling:justify;
+         font-size:40;
+         font-family:arial}
+
+.divA
+{
+width:350px;
+height:180px;
+background:#B5B9FF;
+text-aling:justify;
+         font-size:30;
+         font-family:arial}
+.divB
+{
+float:center;
+width:100%;
+height:70%;
+         font-size:30;
+         font-family:arial;
+background:#B5B9FF;
+}
+
+.footer
+{
+aling-self:flex-end;
+background:#B5B9FF;
+line-heigth:3;
+text-aling:center;
+width:100%;
+heigth:10%;}
+
+
+body{background:#85E3FF;}
